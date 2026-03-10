@@ -35,5 +35,4 @@ El Challenge Alura Store permitió aplicar conocimientos fundamentales de análi
 
 👩‍💻 Autor
 
-Proyecto desarrollado por Karely Rodríguez
-Como parte del programa Oracle Next Education (ONE) + Alura Latam.
+Proyecto desarrollado por Karely Rodríguez como parte del programa Oracle Next Education (ONE) + Alura Latam.
